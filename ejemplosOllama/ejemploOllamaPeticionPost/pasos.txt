@@ -1,0 +1,3 @@
+- Crear entorno virtual
+-activar entorno virtual
+- olama lenata servidor local en puerto
